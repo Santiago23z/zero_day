@@ -1,3 +1,3 @@
 
 # My project
-Aprendiendo a usar git
+Aprendiendo a usar git.
